@@ -1,0 +1,56 @@
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\bin\Debug\Market.exe.config
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\bin\Debug\Market.exe
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\bin\Debug\Market.pdb
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\obj\Debug\Market.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\obj\Debug\Market.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\obj\Debug\Market.Form1.resources
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\obj\Debug\Market.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\obj\Debug\Market.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\obj\Debug\Market.exe
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\obj\Debug\Market.pdb
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\obj\Debug\Market.SifreDegistirmeEkrani.resources
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\obj\Debug\Market.AdminPanel.resources
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\obj\Debug\Market.KasiyerPanel.resources
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\obj\Debug\Market.MeyveSebzePanel.resources
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\bin\Debug\AForge.dll
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\bin\Debug\AForge.Video.dll
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\bin\Debug\AForge.xml
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\bin\Debug\AForge.Video.xml
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\obj\Debug\Market.csproj.CopyComplete
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\bin\Debug\zxing.dll
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\bin\Debug\zxing.presentation.dll
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\bin\Debug\zxing.xml
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\bin\Debug\zxing.presentation.xml
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\obj\Debug\Market.KullaniciPanel.resources
+C:\Users\Cagatay\Desktop\Market Otomasyon\Market\obj\Debug\Market.UrunPanel.resources
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\bin\Debug\Market.exe.config
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\bin\Debug\Market.exe
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\bin\Debug\Market.pdb
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\bin\Debug\AForge.dll
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\bin\Debug\AForge.Video.dll
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\bin\Debug\zxing.dll
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\bin\Debug\zxing.presentation.dll
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\bin\Debug\AForge.xml
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\bin\Debug\AForge.Video.xml
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\bin\Debug\zxing.xml
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\bin\Debug\zxing.presentation.xml
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\obj\Debug\Market.csproj.AssemblyReference.cache
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\obj\Debug\Market.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\obj\Debug\Market.AdminPanel.resources
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\obj\Debug\Market.Form1.resources
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\obj\Debug\Market.KasiyerPanel.resources
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\obj\Debug\Market.KullaniciPanel.resources
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\obj\Debug\Market.MeyveSebzePanel.resources
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\obj\Debug\Market.Properties.Resources.resources
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\obj\Debug\Market.SifreDegistirmeEkrani.resources
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\obj\Debug\Market.UrunPanel.resources
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\obj\Debug\Market.csproj.GenerateResource.cache
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\obj\Debug\Market.csproj.CopyComplete
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\obj\Debug\Market.exe
+C:\Users\Cagatay\Desktop\Market Otomasyon Projesi\Market\obj\Debug\Market.pdb
